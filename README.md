@@ -12,9 +12,9 @@
 ## Contributors
 Thanks to the contributors without them this project seemed next to impossible!
 
-- @mfarhansayed
-- @Ashish-sarawad
-- @Phaninder-Sangers
+- @kiranBakale
+- @PradeepMaleppagol
+- @Jayateerth Upadhye
 
 This repository uses `terraform-terragrunt` to automate infrastructure provisioning in AWS account.
 
