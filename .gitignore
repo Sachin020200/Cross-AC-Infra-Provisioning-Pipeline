@@ -1,0 +1,16 @@
+**/.terragrunt-cache/*
+~WRL1135.tmp
+*.terraform*
+*.terragrunt*
+.*.sw?
+.idea
+vendor
+.terraform
+.vscode
+*.tfstate
+*.tfstate.backup
+*.out
+.terragrunt-cache
+.bundle
+.ruby-version
+.terraform.lock.hcl
